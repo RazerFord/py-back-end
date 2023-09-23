@@ -50,4 +50,4 @@ async def message(group_id: int, message: Message):
     - **name**: message sender name
     - **text**: message text
     """
-    return {"group_id": group_id, "message": message}
+    return {"group_id": group_id, "message_box": message}
