@@ -8,4 +8,4 @@ __N__ - homework number
 
 2. Create branch __homeworkN-dev__
 
-3. Make a PR with the name __Homework N__ with __HomeworkN-dev__ branch to the __HomeworkN__ branch 
+3. Make a PR with the name __Homework N__ with __homeworkN-dev__ branch to the __homeworkN__ branch 
