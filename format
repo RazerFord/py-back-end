@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+cd "$(dirname "$0")"
+black ./app
+flake8 ./app
